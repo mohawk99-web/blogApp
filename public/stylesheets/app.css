@@ -1,0 +1,22 @@
+i.icon{
+	font-size: 2em;
+}
+.container.main{
+	display: block;
+	margin-top: 3.0em;
+}
+
+#delete{
+	display: inline;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+
